@@ -1,9 +1,9 @@
-#~~~~~~~𝔜𝔢 𝔒𝔩𝔢 𝔙𝔲𝔩𝔫𝔢𝔯𝔞𝔟𝔦𝔩𝔦𝔱𝔶 𝔅𝔬𝔞𝔯𝔡~~~~~~~
-##A fairly simple to integrate table for
-##USCert vulnerabilities, something that might
-##be very worth it to keep up with.
+# ~~~~~~~𝔜𝔢 𝔒𝔩𝔢 𝔙𝔲𝔩𝔫𝔢𝔯𝔞𝔟𝔦𝔩𝔦𝔱𝔶 𝔅𝔬𝔞𝔯𝔡~~~~~~~
+## A fairly simple to integrate table for
+## USCert vulnerabilities, something that might
+## be very worth it to keep up with.
 
--Xmlparse: Main functions here, this is really the only module you need to download. The templates are nice for getting integration ideas, and mainflask.py has the necessary syntax.
+TXmlparse: Main functions here, this is really the only module you need to download. The templates are nice for getting integration ideas, and mainflask.py has the necessary syntax.
 
 -Syntax:
 
