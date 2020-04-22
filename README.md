@@ -2,7 +2,7 @@
 ## A fairly simple to integrate table
 for USCert vulnerabilities, something that might be ***very worth it*** to keep up with.
 
-TXmlparse: Main functions here, this is really the only module you need to download. The templates are nice for getting integration ideas, and mainflask.py has the necessary syntax.
+Xmlparse: Main functions here, this is really the only module you need to download. The templates are nice for getting integration ideas, and mainflask.py has the necessary syntax.
 
 -Syntax:
 
