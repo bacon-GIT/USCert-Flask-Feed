@@ -10,9 +10,6 @@ def parseAlerts(entry):
     # Sets $feed_entries to the current vulnerability
     feed_entries = feed.entries[entry]
 
-    # useful degugging line:
-    #print("Feed Entries: ", feed_entries)
-
     # Parse elements
     title = feed_entries['title']
     link = feed_entries['link']
@@ -24,10 +21,3 @@ def parseAlerts(entry):
     vuln_entry = []
     vuln_entry.extend([title, link, summary])
     return vuln_entry
-
-
-'''
-NOTE ABOUT MORE_DETAILS
-I've left this pretty open ended, but my recommendation is to dump the
-rest of the variables from $feed_entries into it
-'''
